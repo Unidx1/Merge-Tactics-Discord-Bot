@@ -7,4 +7,4 @@ tag - The tag of a player in Clash Royale/Merge Tactics found in the profile, in
 Responds with the rank, highest elo, and current elo of the player
 
 /mt-top10k  
-Responds with the rank and elo of the person at rank 10,000; the start of the in gane leaderboard  
+Responds with the rank and elo of the person at rank 10,000; the start of the in-game leaderboard  
