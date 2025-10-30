@@ -3,7 +3,7 @@ A Discord bot for the game Merge Tactics
 
 Commands:  
 /mt-lookup (tag)  
-tag - The tage of a player in Clash Royale/Merge Tactics found in the profile, include the hashtag  
+tag - The tag of a player in Clash Royale/Merge Tactics found in the profile, include the hashtag  
 Responds with the rank, highest elo, and current elo of the player
 
 /mt-top10k  
