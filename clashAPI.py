@@ -1,10 +1,13 @@
 import requests
 from pprint import pprint
+from dotenv import load_dotenv
 import os
+load_dotenv()
 
 JWT_TOKEN = os.getenv("JWT")
 
 BASE_URL = os.getenv("BASE_API_URL")
+
 
 headers = {
     "Authorization": f"Bearer {JWT_TOKEN}"}
